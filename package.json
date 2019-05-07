@@ -1,6 +1,6 @@
 {
-  "name": "@textilie/jsdoc",
-  "version": "3.5.5",
+  "name": "@textile/jsdoc",
+  "version": "3.5.6",
   "revision": "1505357514942",
   "description": "An API documentation generator for JavaScript.",
   "keywords": [
@@ -21,7 +21,7 @@
     "klaw": "~2.0.0",
     "marked": "~0.3.6",
     "mkdirp": "~0.5.1",
-    "requizzle": "git://github.com/hegemonic/requizzle.git#d9eaa40e76b085aa296e2e5abf7c5f2f9672228b",
+    "requizzle": "0.2.1",
     "strip-json-comments": "~2.0.1",
     "taffydb": "2.6.2",
     "underscore": "~1.8.3"
